@@ -12,3 +12,4 @@ Our website: https://www.physu.org/
     2. LaTeX
     3. Matlab
 2. Physics coding utilities
+3. How to use GitHub
