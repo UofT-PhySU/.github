@@ -7,8 +7,8 @@ This is the GitHub org for University of Toronto Physics Student Union, apprevia
 Our website: https://www.physu.org/
 
 # Table of Contents
-1. Our coding tutorials.
-  1. Python
-  2. LaTeX
-  3. Matlab
-2. Physics coding utilities.
+1. [Our coding tutorials].
+    1. [Python]
+    2. [LaTeX]
+    3. [Matlab]
+2. [Physics coding utilities].
