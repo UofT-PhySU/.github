@@ -12,5 +12,5 @@ Our website: https://www.physu.org/
     1. [Python](https://github.com/UofT-PhySU/Python-Workshop)
     2. [LaTeX](https://github.com/UofT-PhySU/LaTeX-Workshop)
     3. [Mathematica](https://github.com/UofT-PhySU/Mathematica-workshop)
-3. Some useful tools 
-4. GitHub directory for physics profs (TBA)
+3. Useful tools are [here](https://github.com/UofT-PhySU/Community-Utilities)
+4. GitHub links to pages of physics profs (TBA)
