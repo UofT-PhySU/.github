@@ -1,4 +1,4 @@
-# Welcome to PhySU! Hope you like it here.
+# Welcome to PhySU! We hope you like it here.
 
 <ins>🚧This page is currently under construction🚧</ins>
 
@@ -13,3 +13,4 @@ Our website: https://www.physu.org/
     3. [Mathematica](https://github.com/UofT-PhySU/Mathematica-workshop)
 2. Physics coding utilities
 3. How to use GitHub
+4. GitHub directory for physics profs (TBA)
