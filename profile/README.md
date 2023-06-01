@@ -4,7 +4,9 @@ This is the GitHub org for the University of Toronto Physics Student Union, abbr
 
 ## How to use GitHub (for beginners)
 
-Go to the repository you were looking for, either by navigating within the "Repositories" tab or one of the links provided below, then click the green button that says "<>Code" and choose any one of the available options. If you don't want to download the whole thing, you can browse the repositories like you would with folders on your computer and copy-paste the specific scripts you like. However, since we expect these repositories to be frequently updated with new content, we recommend using GitHub Desktop, GitLens (a VS Code extension), or similar tools to keep track of the updates automatically.
+Go to the repository you were looking for, either by navigating within the "Repositories" tab or one of the links provided below, then click the big green button that says "Code" and choose any one of the available options. If you don't want to download the whole thing, you can browse the repositories like you would with folders on your computer and copy-paste the specific scripts you like. However, since we expect these repositories to be frequently updated with new content, we recommend cloning the whole repository to your device and keeping track of the updates automatically, using tools like GitHub Desktop or GitLens (a VS Code extension).<br>
+<u>
+It is encouraged that you set up Two-Factor Authentification (2FA) for your GitHub account. This will make your account more secure and prevent others from accessing your account even if they know your password. You can find the instructions [HERE](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication).
 
 ## This is still a work in progress, please send us your feedbacks!
 If you have encountered a problem with anything in any of our repositories, please tell us about it! You can message us on our [discord server](https://discord.com/invite/Ss5SyxR) (verified UofT students only!) or open an issue on the respective repository (this is the recommended way since it's easier for us to pin down the problem).
@@ -15,7 +17,7 @@ If you have encountered a problem with anything in any of our repositories, plea
     1. [Python](https://github.com/UofT-PhySU/Python-Workshop)
     2. [LaTeX](https://github.com/UofT-PhySU/LaTeX-Workshop)
     3. [Mathematica](https://github.com/UofT-PhySU/Mathematica-workshop)
-2. See member-contributed utidlity codes [here](https://github.com/UofT-PhySU/Community-Utilities)
+2. See member-contributed utility codes [here](https://github.com/UofT-PhySU/Community-Utilities)
 3. See other projects made by our members:
     1. [Linux tutorial](https://github.com/UofT-PhySU/Linux-Tutorials) made by Yiǧit Özçelik
 4. How to use GitHub (for contributors)
