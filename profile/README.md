@@ -15,9 +15,9 @@ If you have encountered a problem with anything in any of our repositories, plea
     1. [Python](https://github.com/UofT-PhySU/Python-Workshop)
     2. [LaTeX](https://github.com/UofT-PhySU/LaTeX-Workshop)
     3. [Mathematica](https://github.com/UofT-PhySU/Mathematica-workshop)
-2. See member-contributed utility codes [here](https://github.com/UofT-PhySU/Community-Utilities)
+2. See member-contributed utidlity codes [here](https://github.com/UofT-PhySU/Community-Utilities)
 3. See other projects made by our members:
-    1. [Linux tutorial made by Yiǧit Özçelik](https://github.com/UofT-PhySU/Linux-Tutorials)
+    1. [Linux tutorial](https://github.com/UofT-PhySU/Linux-Tutorials) made by Yiǧit Özçelik
 4. How to use GitHub (for contributors)
     1. [Create a new branch](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches)
     2. [Commit](https://github.com/git-guides/git-commit)
