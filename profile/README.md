@@ -1,4 +1,4 @@
-# Welcome to PhySU! We hope you like it here
+# Welcome to PhySU!
 
 This is the GitHub org for the University of Toronto Physics Student Union, abbreviated as PhySU. Here, you will find the materials used in our coding workshops, as well as some utility codes contributed by our members.
 
