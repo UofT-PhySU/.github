@@ -1,4 +1,4 @@
-# Welcome to PhySU!
+# Welcome to PhySU's own GitHub page!
 
 This is the GitHub org for the University of Toronto Physics Student Union, abbreviated as PhySU. Here, you will find the materials used in our coding workshops, as well as some utility codes contributed by our members.
 
@@ -9,7 +9,7 @@ Go to the repository you were looking for, either by navigating within the "Repo
 It is encouraged that you set up Two-Factor Authentification (2FA) for your GitHub account. This will make your account more secure and prevent others from accessing your account even if they know your password. You can find the instructions [HERE](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication).
 
 ## This is still a work in progress, please send us your feedbacks!
-If you have encountered a problem with anything in any of our repositories, please tell us about it! You can message us on our [discord server](https://discord.com/invite/Ss5SyxR) (verified UofT students only!) or open an issue on the respective repository (this is the recommended way since it's easier for us to pin down the problem).
+If you have encountered a problem with anything in any of our repositories, please tell us about it! You can message us on our [discord server](https://discord.com/invite/Ss5SyxR) (verified UofT students only!) or open an issue on the rspective repository (this is the recommended way since it's easier for us to pin down the problem).
 
 # Directory
 
@@ -17,10 +17,16 @@ If you have encountered a problem with anything in any of our repositories, plea
     1. [Python](https://github.com/UofT-PhySU/Python-Workshop)
     2. [LaTeX](https://github.com/UofT-PhySU/LaTeX-Workshop)
     3. [Mathematica](https://github.com/UofT-PhySU/Mathematica-workshop)
-2. See member-contributed utility codes [here](https://github.com/UofT-PhySU/Community-Utilities)
+2. See member-contributed utility codes [here](https://github.com/UofT-PhySU/physiciststoolkit)
 3. See other projects made by our members:
-    1. [Linux tutorial](https://github.com/UofT-PhySU/Linux-Tutorials) made by Yiǧit Özçelik
+<!--
+    % 1. [Linux tutorial](https://github.com/UofT-PhySU/Linux-Tutorials) made by Yiǧit Özçelik
+-->
 4. How to use GitHub (for contributors)
     1. [Create a new branch](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches)
     2. [Commit](https://github.com/git-guides/git-commit)
     3. [Create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+
+# Credits:
+
+All the materials in this repository are created by the members of the Physics Student Union at the University of Toronto. If you would like to contribute to this repository, please contact us on our [discord server](https://discord.com/invite/Ss5SyxR) (verified UofT students only!) or through our email [physu@physics.utoronto.ca](mailto:physu@physics.utoronto.ca). For GitHub affairs, please contact the repository owner.
